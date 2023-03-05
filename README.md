@@ -64,16 +64,6 @@
 
 #
 
-<br/>
-
-#
-
-<hr/>
-
-<br/>
-
-#
-
 **GITHUB STATS :**
 
 <p align="center" width='900px'>
