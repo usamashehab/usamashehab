@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Usama shehab</h1>
-<h3 align="center">A passionate Backend developer from Egypt</h3>
-
-![Studio_Project](studio_project.gif)
+![Studio_Project](Studio_Project.gif)
 <br>
 <br>
 
