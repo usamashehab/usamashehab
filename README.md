@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usama shehab</h1>
 <h3 align="center">A passionate Backend developer from Egypt</h3>
 
-![Studio_Project](usamashehab-2022.stl)
+![Studio_Project](1.gif)
 <br>
 <br>
 
@@ -60,7 +60,6 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/django.svg"></code>
 
 #
 
