@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usama shehab</h1>
 <h3 align="center">A passionate Backend developer from Egypt</h3>
 
-![Studio_Project](<div style="height: 0; padding-bottom: calc(39.00%); position:relative; width: 100%;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/6404f5d60dad50001fbcc645" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Embedded content made on Kapwing" width="100%"></iframe></div><p style="font-size: 12px; text-align: right;">Video edited on <a href="https://www.kapwing.com/video-editor">Kapwing</a></p>)
+![Studio_Project](studio_project.gif)
 <br>
 <br>
 
