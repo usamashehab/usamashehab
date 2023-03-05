@@ -36,7 +36,7 @@ START_SECTION:activity -->
 <br>
 <br>
 
-<a href="https://app.daily.dev/DonGuillotine">
+<a href="https://app.daily.dev/usamashehab">
   <img src="https://api.daily.dev/devcards/b4681b96ff8545eb87624c936831470a.png?r=ejc" width="400" alt="Donald Nwokoro's Dev Card" align="right"/>
 </a>
 
@@ -62,12 +62,12 @@ START_SECTION:activity -->
 #
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DonGuillotine&theme=darkhub&column=-1&margin-w=15">
+  <img src="https://github-profile-trophy.vercel.app/?username=usamashehab&theme=darkhub&column=-1&margin-w=15">
 </p>
 
 <p align="center">
   <img height="150" width="150" src="assets/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DonGuillotine&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=usamashehab&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="assets/right.webp">
 </p>
 
@@ -122,10 +122,10 @@ START_SECTION:activity -->
 **GITHUB STATS :**
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DonGuillotine&hide=contribs&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="169px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonGuillotine&hide=html,css,scss&hide_border=true&langs_count=10&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&count_private=true&layout=compact&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=usamashehab&hide=contribs&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="169px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamashehab&hide=html,css,scss&hide_border=true&langs_count=10&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&count_private=true&layout=compact&theme=tokyonight" />
 </p>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=DonGuillotine&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=usamashehab&theme=react-dark&hide_border=true&area=true)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
