@@ -37,7 +37,7 @@ START_SECTION:activity -->
 <br>
 
 <a href="https://app.daily.dev/usamashehab">
-  <img src="https://api.daily.dev/devcards/b4681b96ff8545eb87624c936831470a.png?r=ejc" width="400" alt="Donald Nwokoro's Dev Card" align="right"/>
+  <img src="https://api.daily.dev/devcards/a0613ea71a2741bc915a2c2cc14ef683.png?r=i25" width="400" alt="usama shehab's Dev Card" align="right"/>
 </a>
 
 ### Here are some fun facts about me:
@@ -50,10 +50,10 @@ START_SECTION:activity -->
 
 ## 📩 Connect with me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/donald-nwokoro/)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/_donGuillotine)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:infect3dlab@gmail.com)
-[<img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/infect3dstudio/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/usamashehab/)
+
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:usama.shehab173@gmail.com)
+[<img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/usama.shehab.792/)
 
 <br/>
 <br>
