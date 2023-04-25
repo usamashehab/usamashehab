@@ -11,7 +11,6 @@
 - 💻 I enjoy solving complex problems and fixing technical issues.
 - 🚀 I’m currently working at TaxiTR as a Backend Developer.
 - 👥 I’m looking to collaborate with people with Amazing Ideas.
-- 📙 I love to read. I'm a Huge fan of ibrahem omar elsakran.
   <br/>
 
 ## 📩 Connect with me
@@ -55,7 +54,6 @@
 
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/django.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
