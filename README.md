@@ -32,18 +32,10 @@
 <br>
 
 <p align="center">
-  <img srcset="assets/left-50.webp 50w, assets/left-100.webp 100w, assets/left-150.webp 150w"
-       sizes="(max-width: 768px) 50px, (max-width: 992px) 100px, 150px"
-       src="assets/left.webp" alt="Left Image">
-  <img srcset="https://github-readme-streak-stats.herokuapp.com?user=usamashehab&theme=dark&hide_border=true 150w"
-       sizes="400"
-       src="https://github-readme-streak-stats.herokuapp.com?user=usamashehab&theme=dark&hide_border=true"
-       height="200" width="200" alt="Center Image">
-  <img srcset="assets/right-50.webp 50w, assets/right-100.webp 100w, assets/right-150.webp 150w"
-       sizes="(max-width: 768px) 50px, (max-width: 992px) 100px, 150px"
-       src="assets/right.webp" alt="Right Image">
+  <img height="150" width="150" src="assets/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=usamashehab&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="assets/right.webp">
 </p>
-
 #
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**
