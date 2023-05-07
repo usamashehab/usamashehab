@@ -35,23 +35,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=usamashehab&theme=darkhub&column=-1&margin-w=15">
 </p>
 
-<style>
-  .responsive-img {
-    max-width: 100%;
-    height: auto;
-  }
-  .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-</style>
-<div class="container">
-  <img class="responsive-img" src="assets/left.webp">
-  <img class="responsive-img" src="https://github-readme-streak-stats.herokuapp.com?user=usamashehab&theme=dark&hide_border=true"/>
-  <img class="responsive-img" src="assets/right.webp">
-</div>
-
+<p align="center">
+  <img src="https://res.cloudinary.com/demo/image/upload/w_auto,c_scale/left.webp">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=usamashehab&theme=dark&hide_border=true"/>
+  <img src="https://res.cloudinary.com/demo/image/upload/w_auto,c_scale/right.webp">
+</p>
 #
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**
