@@ -36,7 +36,7 @@
        sizes="(max-width: 768px) 50px, (max-width: 992px) 100px, 150px"
        src="assets/left.webp" alt="Left Image">
   <img srcset="https://github-readme-streak-stats.herokuapp.com?user=usamashehab&theme=dark&hide_border=true 150w"
-       sizes="200px"
+       sizes="400"
        src="https://github-readme-streak-stats.herokuapp.com?user=usamashehab&theme=dark&hide_border=true"
        height="200" width="200" alt="Center Image">
   <img srcset="assets/right-50.webp 50w, assets/right-100.webp 100w, assets/right-150.webp 150w"
