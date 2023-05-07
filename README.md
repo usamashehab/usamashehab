@@ -40,12 +40,17 @@
     max-width: 100%;
     height: auto;
   }
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 </style>
-<p align="center">
-  <img class="responsive-img" height="150" width="150" src="assets/left.webp">
-  <img class="responsive-img" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=usamashehab&theme=dark&hide_border=true"/>
-  <img class="responsive-img" height="150" width="150" src="assets/right.webp">
-</p>
+<div class="container">
+  <img class="responsive-img" src="assets/left.webp">
+  <img class="responsive-img" src="https://github-readme-streak-stats.herokuapp.com?user=usamashehab&theme=dark&hide_border=true"/>
+  <img class="responsive-img" src="assets/right.webp">
+</div>
 
 #
 
