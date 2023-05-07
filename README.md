@@ -32,13 +32,15 @@
 <br>
 
 <p align="center">
-  <img srcset="assets/left-100.webp 100w, assets/left-150.webp 150w, assets/left-200.webp 200w"
-       sizes="(max-width: 768px) 100px, (max-width: 992px) 150px, 200px"
+  <img srcset="assets/left-50.webp 50w, assets/left-100.webp 100w, assets/left-150.webp 150w"
+       sizes="(max-width: 768px) 50px, (max-width: 992px) 100px, 150px"
        src="assets/left.webp" alt="Left Image">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=usamashehab&theme=dark&hide_border=true"
-       height="150" width="150" alt="Center Image">
-  <img srcset="assets/right-100.webp 100w, assets/right-150.webp 150w, assets/right-200.webp 200w"
-       sizes="(max-width: 768px) 100px, (max-width: 992px) 150px, 200px"
+  <img srcset="https://github-readme-streak-stats.herokuapp.com?user=usamashehab&theme=dark&hide_border=true 150w"
+       sizes="200px"
+       src="https://github-readme-streak-stats.herokuapp.com?user=usamashehab&theme=dark&hide_border=true"
+       height="200" width="200" alt="Center Image">
+  <img srcset="assets/right-50.webp 50w, assets/right-100.webp 100w, assets/right-150.webp 150w"
+       sizes="(max-width: 768px) 50px, (max-width: 992px) 100px, 150px"
        src="assets/right.webp" alt="Right Image">
 </p>
 
