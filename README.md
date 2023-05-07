@@ -35,10 +35,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=usamashehab&theme=darkhub&column=-1&margin-w=15">
 </p>
 
+<style>
+  .responsive-img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
 <p align="center">
-  <img height="150" width="150" src="assets/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=usamashehab&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="assets/right.webp">
+  <img class="responsive-img" height="150" width="150" src="assets/left.webp">
+  <img class="responsive-img" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=usamashehab&theme=dark&hide_border=true"/>
+  <img class="responsive-img" height="150" width="150" src="assets/right.webp">
 </p>
 
 #
