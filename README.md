@@ -30,13 +30,16 @@
 
 <br>
 <br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=usamashehab&theme=darkhub&column=-1&margin-w=15">
+</p>
 
 <p align="center">
-
   <img height="150" width="150" src="assets/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=usamashehab&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="assets/right.webp">
 </p>
+
 #
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**
