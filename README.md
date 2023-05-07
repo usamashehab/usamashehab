@@ -32,14 +32,16 @@
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=usamashehab&theme=darkhub&column=-1&margin-w=15">
+  <img srcset="assets/left-100.webp 100w, assets/left-150.webp 150w, assets/left-200.webp 200w"
+       sizes="(max-width: 768px) 100px, (max-width: 992px) 150px, 200px"
+       src="assets/left.webp" alt="Left Image">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=usamashehab&theme=dark&hide_border=true"
+       height="150" width="150" alt="Center Image">
+  <img srcset="assets/right-100.webp 100w, assets/right-150.webp 150w, assets/right-200.webp 200w"
+       sizes="(max-width: 768px) 100px, (max-width: 992px) 150px, 200px"
+       src="assets/right.webp" alt="Right Image">
 </p>
 
-<p align="center">
-  <img src="https://res.cloudinary.com/demo/image/upload/w_auto,c_scale/left.webp">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=usamashehab&theme=dark&hide_border=true"/>
-  <img src="https://res.cloudinary.com/demo/image/upload/w_auto,c_scale/right.webp">
-</p>
 #
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**
