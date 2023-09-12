@@ -48,9 +48,6 @@
 #
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**
-<br/>
-<br/>
-<br/>
 
 <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://user-images.githubusercontent.com/89584431/216820527-3547f251-7d3e-4362-92eb-c2fd8fc0192a.gif"/>
 <br/>
@@ -76,6 +73,9 @@
 <br/>
 
 
+<br/>
+<br/>
+<br/>
 
 **GITHUB STATS :**
 
