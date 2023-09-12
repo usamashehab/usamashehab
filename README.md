@@ -72,14 +72,10 @@
 
 <br/>
 
-#
+
 
 **GITHUB STATS :**
 
-<p align="center" width='900px'>
-    <img align="left" height="169px" width='460px' src="https://github-readme-stats.vercel.app/api?username=usamashehab&hide=contribs&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img  height="169px" width='350px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamashehab&hide=html,css,scss&hide_border=true&langs_count=10&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&count_private=true&layout=compact&theme=tokyonight" />
-</p>
 
 <!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=usamashehab&theme=react-dark&hide_border=true&area=true) -->
 
